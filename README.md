@@ -43,6 +43,28 @@
   <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F61?style=for-the-badge" alt="AI" />
   <img src="https://img.shields.io/badge/GenAI_%26_AI_Tools-8A2BE2?style=for-the-badge" alt="AI Tools" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  ### 📜 Certifications & Achievements
+
+- 🔹 **IBM:** Python 101 for Data Science (Cognitive Class)
+- 🔹 **IBM:** SQL and Relational Databases 101 (Cognitive Class)
+- 🔹 **C-DAC:** Diploma in Multilingual Computer Applications (600 hrs, PACE Programme)
+- 🔹 **Conference:** Attended *4th International Conference on Advanced Computing Technologies & Applications (ICACTA-2025)*
+
+---
+
+### 🚀 Projects
+
+- 🏏 **[AB de Villiers Career Statistics Dashboard](https://lnkd.in/p/d_crgZqU)**
+  - Built an interactive Power BI dashboard analyzing 20,000+ international runs, 47 centuries, and 109 half-centuries.
+  - Formatted insights by format-wise KPIs, strike rates, and opponent breakdowns.
+
+- 🤖 **[Nova AI](https://sahilsaifxx.github.io/Nova_Ai/)**
+  - An intelligent conversational AI chatbot and web application built with Python and HTML.
+
+- 📊 **Data Analytics & Python Programming Repositories**
+  - End-to-end data pipelines: Data cleaning, EDA, visualization, and Python problem solving.
+
+---
 
   <!-- Office & Productivity -->
   <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="MS Word" />

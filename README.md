@@ -13,11 +13,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** Current MCA Student | BCA in Artificial Intelligence (Invertis University)
-- 💼 **Experience:** Former Data Analysis & Visualization Intern at **Extion Infotech**
-- 📜 **Certifications:** Data Analysis (IBM) | Python Programming (IBM)
-- 🎯 **Goal:** Seeking entry-level Data Analyst / Business Analyst roles to turn complex datasets into actionable business decisions
+- 🎓 **Education:** MCA Student | BCA in Artificial Intelligence (Invertis University)
+- 💼 **Experience:** Former Data Analysis & Visualization Intern at **Extion Infotech** (Bareilly)
 - 📍 **Location:** Bareilly, Uttar Pradesh, India
+- 🎯 **Looking for:** Data Analyst / BI Analyst roles & internships
 
 ---
 
@@ -26,14 +25,16 @@
 <p align="left">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <!-- BI & Analytics -->
+  <!-- BI & Analytics Tools -->
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <!-- Tools -->
+  <!-- Developer Tools -->
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -41,22 +42,28 @@
 
 ---
 
-### 🚀 Featured Projects
+### 📜 Certifications & Achievements
 
-- 🏏 **[Cricket Analytics Dashboard](https://lnkd.in/p/d_crgZqU)**
-  - Analyzed and visualized AB de Villiers' complete career statistics and match trends.
-  - Built an interactive Power BI dashboard featuring dynamic KPIs, filters, and performance breakdown charts.
-
-- 🤖 **Nova AI**
-  - An intelligent conversational chatbot and web interface built using Python and HTML.
-
-- 📊 **Data Analytics & Python Programming**
-  - Exploratory data analysis (EDA), data cleaning pipelines, and predictive analysis on real-world datasets.
+- 🔹 **IBM:** Python 101 for Data Science (Cognitive Class)
+- 🔹 **IBM:** SQL and Relational Databases 101 (Cognitive Class)
+- 🔹 **C-DAC:** Diploma in Multilingual Computer Applications (600 hrs, PACE Programme)
+- 🔹 **Conference:** Attended *4th International Conference on Advanced Computing Technologies & Applications (ICACTA-2025)*
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 Projects
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilsaifxx&show_icons=true&theme=tokyonight&hide_border=true" alt="Sahil's GitHub stats" />
+- 🏏 **[AB de Villiers Career Statistics Dashboard](https://lnkd.in/p/d_crgZqU)**
+  - Built an interactive Power BI dashboard analyzing 20,000+ international runs, 47 centuries, and 109 half-centuries.
+  - Formatted insights by format-wise KPIs, strike rates, and opponent breakdowns.
+
+- 🤖 **Nova AI**
+  - An intelligent conversational AI chatbot and web application built with Python and HTML.
+
+- 📊 **Data Analytics & Python Programming Repositories**
+  - End-to-end data pipelines: Data cleaning, EDA, visualization, and Python problem solving.
+
+---
+
+
 </p>
